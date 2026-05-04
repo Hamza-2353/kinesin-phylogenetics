@@ -3,7 +3,6 @@
 [![Open Notebook A in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/kinesin-phylogenetics/blob/main/notebooks/kinesin_motor_proteins_phylo.ipynb)
 [![Open Notebook B in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/kinesin-phylogenetics/blob/main/notebooks/kinesin14_family_phylo.ipynb)
 
-> **Replace `YOUR_USERNAME`** with your GitHub username in the badge URLs above after creating the repo.
 
 ---
 
