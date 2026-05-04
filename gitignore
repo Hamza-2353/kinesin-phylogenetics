@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.env
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Large data files — commit only if small
+*.zip
+*.tar.gz
+*.gz
+
+# FastTree log files
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results — upload manually or via Git LFS if needed
+# (comment these out if you want to commit your result files)
+results/superfamily/*.fasta
+results/kinesin14/*.fasta

@@ -1,0 +1,14 @@
+name: kinesin-phylo
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - biopython>=1.80
+  - matplotlib>=3.5
+  - numpy>=1.22
+  - jupyter
+  - notebook
+  - muscle
+  - fasttree
