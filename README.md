@@ -1,7 +1,7 @@
 # Kinesin Motor Proteins — Phylogenetic Analysis
 
-[![Open Notebook A in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/kinesin-phylogenetics/blob/main/notebooks/kinesin_motor_proteins_phylo.ipynb)
-[![Open Notebook B in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/kinesin-phylogenetics/blob/main/notebooks/kinesin14_family_phylo.ipynb)
+[![Open Notebook A in Colab](https://colab.research.google.com/drive/1fkVHDvmiC706IAhVO9YiespUuGtUaceE?usp=sharing)
+[![Open Notebook B in Colab](https://colab.research.google.com/drive/1dQ40fojDshxkzcfPBOUy02vYbQNU5ClK?usp=sharing)
 
 
 ---
