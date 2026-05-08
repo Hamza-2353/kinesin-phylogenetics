@@ -102,12 +102,12 @@ The superfamily has **14 families** classified by their conserved ~360 aa motor 
 
 | Notebook | Link |
 |---|---|
-| A — Kinesin Superfamily | Open in Colab |
-| B — Kinesin-14 Family | Open in Colab |
+| A — Kinesin Superfamily | [Open in Colab](https://colab.research.google.com/drive/1fkVHDvmiC706IAhVO9YiespUuGtUaceE?usp=sharing) |
+| B — Kinesin-14 Family   | [Open in Colab](https://colab.research.google.com/drive/1dQ40fojDshxkzcfPBOUy02vYbQNU5ClK?usp=sharing) |
 
 1. Click a link above
-2. In the **first code cell**, replace `your_email@example.com` with your real 
-   email (required by NCBI Entrez)
+2. In Cell 2 (imports & config), replace `your_email@example.com` 
+   with your real email address (required by NCBI Entrez)
 3. Go to **Runtime → Run all**
 4. ⏱ Wait ~3–5 minutes for the full pipeline to complete
 5. The final cell will package all outputs into a `.zip` — download it when prompted
