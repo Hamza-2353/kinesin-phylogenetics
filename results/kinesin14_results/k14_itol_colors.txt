@@ -1,0 +1,21 @@
+TREE_COLORS
+SEPARATOR TAB
+DATA
+KIFC1_Drer	label	#E74C3C	normal	2
+PKL1_Spom	label	#9B59B6	normal	2
+KIFC1_Mmus	label	#E74C3C	normal	2
+XCTK2_Xlae	label	#E74C3C	normal	2
+ATK5_Atha	label	#27AE60	normal	2
+KIN14_Tgon	label	#3498DB	normal	2
+KIFC3_Hsap	label	#E74C3C	normal	2
+KLPA_Anid	label	#9B59B6	normal	2
+KCBP_Atha	label	#27AE60	normal	2
+KIFC2_Hsap	label	#E74C3C	normal	2
+NCD_Dmel	label	#E67E22	normal	2
+KLP15_Cele	label	#E67E22	normal	2
+KAR3_Scer	label	#9B59B6	normal	2
+KIN14_Ppat	label	#27AE60	normal	2
+ATK1_Atha	label	#27AE60	normal	2
+KIFC1_Hsap	label	#E74C3C	normal	2
+KLP3_Ncra	label	#9B59B6	normal	2
+KIN14_Crei	label	#3498DB	normal	2
